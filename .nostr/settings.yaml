@@ -1,8 +1,8 @@
 info:
-  relay_url: wss://nostream.your-domain.com
+  relay_url: wss://nostream-production-b48d.up.railway.app
   name: nostream.your-domain.com
   description: A nostr relay written in Typescript.
-  pubkey: replace-with-your-pubkey-in-hex
+  pubkey: 474a6fc270c8f4ec1cc37797ce9f8c87e0f09b908a9e5e79491bcf19a30bed98
   contact: operator@your-domain.com
 payments:
   enabled: false
